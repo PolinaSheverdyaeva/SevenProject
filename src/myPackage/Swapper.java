@@ -1,4 +1,4 @@
-package Codewars;
+package myPackage;
 
 public class Swapper {
 
